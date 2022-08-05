@@ -1,5 +1,4 @@
 //  This program creates a simple NodeJS server
-//require('dotenv').config()
 
 //  Add express from the NPM
 const express = require("express")
